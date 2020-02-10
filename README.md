@@ -11,3 +11,7 @@ Map 2:
 Map 3: (not zoomable)
 
 ![map2](https://github.com/dizzySummer/zoomableHeatMap/blob/master/3.png?raw=true)
+
+Timeseries: 
+
+![map2](https://github.com/dizzySummer/zoomableHeatMap/blob/master/4.png?raw=true)
